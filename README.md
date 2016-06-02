@@ -1,5 +1,5 @@
 # Video-App
-> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/getterv/Video-App.git
     > cd ReduxSimpleStarter
     > npm install
     > npm start
